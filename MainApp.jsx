@@ -1,0 +1,1 @@
+/* Conteúdo completo do App com navbar, páginas e admin será inserido aqui. */
